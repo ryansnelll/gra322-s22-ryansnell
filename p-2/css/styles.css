@@ -20,3 +20,6 @@ h1 {
 .grid > * {
     grid-column: main;
 }
+header {
+    background-color: var(--gray-dark);
+}
